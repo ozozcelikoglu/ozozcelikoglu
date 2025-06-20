@@ -65,7 +65,7 @@ End-to-end budget analysis and visualization for a fictional production company,
 ---
 
 **C-Section Risk Analysis – CSW 2025 Dataset**  
-[Repository Link](https://github.com/ozozcelikoglu/csection-risk-analysis)  
+[Repository Link](https://github.com/ozozcelikoglu/ozozcelikoglu-csection-risk-analysis)  
 Logistic regression model to identify clinical and maternal risk factors associated with Caesarean delivery.
 
 - Confidence intervals, odds ratios, and stratified analysis
@@ -75,7 +75,7 @@ Logistic regression model to identify clinical and maternal risk factors associa
 ---
 
 **Galaxy Mass Analysis & Statistical Modeling**  
-[Repository Link](https://github.com/ozozcelikoglu/galaxy-mass-analysis-statistical-modeling)  
+[Repository Link](https://github.com/ozozcelikoglu/galaxy-mass-analysis-montecarlo-mcmc)  
 Statistical modeling project involving physical data simulation, polynomial regression, and Bayesian parameter estimation via MCMC.
 
 - Simulated muon decay using inverse transform sampling
