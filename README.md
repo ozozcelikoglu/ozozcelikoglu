@@ -25,9 +25,9 @@ My analytical mindset, strong SQL background, and experience working with cross-
 
 | Category                | Tools & Technologies                                                      |
 |-------------------------|---------------------------------------------------------------------------|
-| **Programming**         | Python (Pandas, NumPy, Scikit-learn), PL/SQL, T-SQL                      |
-| **Databases**           | Oracle SQL, MSSQL, SAP BO, PowerDesigner                                 |
-| **BI & Visualization**  | Power BI, Excel, Seaborn, Matplotlib                                     |
+| **Programming**         | Python (Pandas, NumPy, Scikit-learn), PL/SQL,                            |
+| **Databases**           | Oracle SQL, MSSQL, PowerDesigner                                         |
+| **BI & Visualization**  | Power BI, SAP BO, Excel, Seaborn, Matplotlib                             |
 | **ETL & Data Pipeline** | Informatica PowerCenter, Data Modelling, ETL Automation                  |
 | **Development Tools**   | Git, Jupyter Notebook, Agile/Scrum workflows                             |
 
@@ -36,7 +36,8 @@ My analytical mindset, strong SQL background, and experience working with cross-
 - Led multiple credit and market risk reporting pipelines at a major bank, ensuring alignment between general ledger and data warehouse values.
 - Delivered Power BI dashboards used by executive management to track operational KPIs across departments.
 - Applied logistic regression and statistical testing in academic projects covering health, education, and climate datasets.
-- Experience with both traditional ETL development (Informatica) and modern ML workflows using Python.
+- Worked with traditional ETL tools (e.g., Informatica) to design and maintain data pipelines for financial and operational reporting.
+- Built machine learning workflows using Python (Pandas, Scikit-learn) to support academic and business-focused predictive modeling tasks.
 
 ---
 
